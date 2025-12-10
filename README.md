@@ -1,19 +1,28 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🏀 Basketball Scoreboard
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+![Tech](https://img.shields.io/badge/tech-HTML%20%7C%20CSS%20%7C%20JS-orange)
+![Status](https://img.shields.io/badge/status-active-success)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+> **A digital scoreboard to track points for Home and Guest teams in real-time.**
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🎯 The Goal
+Standard scoreboards are expensive or hard to set up. This is a lightweight, web-based solution to track basketball scores instantly on any device.
 
-Happy Coding!
+## ✨ Features
+* **Point System:** dedicated buttons for +1, +2, and +3 points.
+* **Dual Team Tracking:** Separate counters for "Home" and "Guest".
+* **Leader Highlighting:** Visual cues to show which team is winning (Coming Soon).
+* **Reset Function:** Instantly clear the board for a new game.
+
+## 🛠️ Tech Stack
+* **Structure:** HTML5
+* **Styling:** CSS3 (Flexbox for layout, custom fonts)
+* **Logic:** Vanilla JavaScript (DOM manipulation)
+
+## 🚀 How to Run
+1. Clone the repo.
+2. Open `index.html`.
+3. Start the game! ⛹️‍♂️
+
+---
+*Created by [Your Name].*
