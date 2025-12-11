@@ -25,4 +25,4 @@ Standard scoreboards are expensive or hard to set up. This is a lightweight, web
 3. Start the game! ⛹️‍♂️
 
 ---
-*Created by [Your Name].*
+*Created by Jatin.*
